@@ -1,0 +1,1 @@
+Assets/Live2D/Cubism/Samples/Extends/LICENSE.md

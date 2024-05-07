@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: b6242d11ad7029e478399d007d5c4d25
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MainTex: {instanceID: 0}
+  - cubism_MaskTexture: {instanceID: 0}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
